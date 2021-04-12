@@ -17,9 +17,9 @@ import getpass
 import sys
 
 #URL con definicion de estado del item y esperando obtener un state el cual se logra al asignar {0}
-URLstage5 =  "https://w3.ibm.com/tools/cio/forms-basic/secure/org/data/9b0dcff1-a730-4806-837b-f79a3e7be95f/F_Form1?format=json&flow_state__equals=ST_NewStageName2";
-URLstage4 =  "https://w3.ibm.com/tools/cio/forms-basic/secure/org/data/9b0dcff1-a730-4806-837b-f79a3e7be95f/F_Form1?format=json&flow_state__equals=ST_NewStageName11";
-URLsopEng =  "https://w3.ibm.com/tools/cio/forms-basic/secure/org/data/9b0dcff1-a730-4806-837b-f79a3e7be95f/F_Form1?format=json&flow_state__equals=ST_NewStageName6";
+URLstage5 =  "URL"
+URLstage4 =  "URL"
+URLsopEng =  "URL"
 
 #defines el metada en formato json y cargas los datos de forms en json
 user = sys.argv[1]
